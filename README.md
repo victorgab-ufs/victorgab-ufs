@@ -1,8 +1,6 @@
 ## Bem-vindo(a) ao meu perfil!!!
 
 <div>
-  <a href="https://github.com/victorgab-ufs">
-  <a href="www.linkedin.com/in/victor-gabriel-7420aa369">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgab-ufs&theme=dark&show_icons=true&hide_border=false&count_private=false">
   <img heigth="180em" src="https://github.com/user-attachments/assets/c9cde9da-d958-4df1-8e17-69375418c056">
  </div>
