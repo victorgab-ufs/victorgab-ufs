@@ -4,7 +4,9 @@
   <a href="https://github.com/victorgab-ufs">
   <a href="www.linkedin.com/in/victor-gabriel-7420aa369">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgab-ufs&theme=dark&show_icons=true&hide_border=false&count_private=false">
-</div>
+  <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/8c8bc723-7cfd-4f82-9e11-f0af5d8bbf9b"/>
+  <img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/c9cde9da-d958-4df1-8e17-69375418c056" />
+ </div>
 
 <!--
 **victorgab-ufs/victorgab-ufs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
