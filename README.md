@@ -12,6 +12,7 @@ Meu nome é Victor Gabriel, sou estudante de Engenharia de Computação na Unive
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
 ## 🛠️​ Ferramentas utilizadas:
@@ -22,7 +23,9 @@ Meu nome é Victor Gabriel, sou estudante de Engenharia de Computação na Unive
   <img align="center" alt="Victor-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Victor-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Victor-bluej" height="30" width="40" src="https://img.icons8.com/?size=100&id=8Qj7D6Rs9dpn&format=png&color=000000">
 </div>
+
 
 <br>
 
