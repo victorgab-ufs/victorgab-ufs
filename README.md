@@ -2,7 +2,6 @@
 
 Meu nome é Victor Gabriel, sou estudante de Engenharia de Computação na Universidade Federal de Sergipe. Atualmente busco me descobrir no curso explorando diversas áreas.
 
-<br>
 
 ## 💻​ Linguagens que venho aprendendo:
 
@@ -25,17 +24,18 @@ Meu nome é Victor Gabriel, sou estudante de Engenharia de Computação na Unive
   <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Victor-bluej" height="30" width="40" src="https://img.icons8.com/?size=100&id=8Qj7D6Rs9dpn&format=png&color=000000">
 </div>
-
-
 <br>
 
 ## 📊 Estatísticas
-
-## ![victorgab-ufs's Stats](https://github-readme-stats.vercel.app/api?username=victorgab-ufs&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![victorgab-ufs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgab-ufs&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 <br>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-mocha-two-95.vercel.app/api?username=victorgab-ufs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-mocha-two-95.vercel.app/api/top-langs/?username=victorgab-ufs&include_all_commits=true&layout=compact&theme=tokyonight">
+</p>
+
 
 ## 📫​ Contato 
 
