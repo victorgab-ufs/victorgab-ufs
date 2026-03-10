@@ -23,19 +23,16 @@ Meu nome é Victor Gabriel, sou estudante de Engenharia de Computação na Unive
   <img align="center" alt="Victor-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Victor-bluej" height="30" width="40" src="https://img.icons8.com/?size=100&id=8Qj7D6Rs9dpn&format=png&color=000000">
+  <img align="center" alt="Victor-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">       
 </div>
 <br>
 
 ## 📊 Estatísticas
-<br>
-<p align="center">
-  <img height="170" src="https://github-readme-stats-mocha-two-95.vercel.app/api?username=victorgab-ufs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-mocha-two-95.vercel.app/api/top-langs/?username=victorgab-ufs&include_all_commits=true&layout=compact&theme=tokyonight">
-</p>
-
+<div align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/victorgab-ufs?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" alt="My Awesome Stats">
+  </a>
+</div>
 
 ## 📫​ Contato 
 
